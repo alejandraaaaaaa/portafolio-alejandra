@@ -1,0 +1,77 @@
+
+.navbar{
+	width: 100%;
+	height: 60px;
+	background-color: #BED5F8;
+	margin: 0px;
+	box-shadow: 0px 5px 5px 0px rgba(190,213,248,1); 
+}
+
+.nav-link{
+	color: #000000;
+}
+
+.nav-link:hover{
+	color: #FFFFFF;
+}
+
+.logo-brand{
+	background-image: url(img/LOGO..PNG);
+	width: 77%;
+	height: 50px;
+}
+
+.caja1{
+	width: 100%;
+	height: 450px;
+	background-image: url(img/diseñosintítulo.png);
+    box-shadow: inset 0px -5px 5px 0px rgba(255,255,255,1);; 
+}
+
+.cajita1{
+	width: 37%;
+	height: 450px;
+	background-color: #E1C3FD;
+	margin-left: 415px;
+}
+
+.fakegif{
+	background-image: url(img/gif3.gif);
+	width: 500px;
+	height: 450px;
+	background-size: cover;
+}
+
+.container{
+	background-color: #9BD8FA;
+	background-size: cover;
+}
+
+.fakeimage{
+	width: 350px;
+	height: 250px;
+	background-image: url(img/fotoperfil.jpeg);
+	background-size: cover;
+}
+
+#caja1{
+	width: 100%;
+	height: 500px;
+	background-color: #9BD8FA;
+}
+
+.fakeimage1{
+	width: 100%;
+	height: 330px;
+	background-image: url(img/hobbies.PNG);
+	background-size: cover;
+}
+
+.fakeimage2{
+	width: 100%;
+	height: 330px;
+	background-image: url(img/skiils.PNG);
+	background-size: cover;
+}
+
+
